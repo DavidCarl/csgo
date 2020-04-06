@@ -57,6 +57,9 @@ tv_relayvoice 1
 tv_snapshotrate 64
 tv_timeout 60
 tv_transmitall 1
+sv_downloadurl "fastdl.dcarl.me/csgo/maps/"
+sv_allowdownload 1 
+sv_allowupload 1
 writeid
 writeip
 SERVERCFG
